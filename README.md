@@ -1,2 +1,9 @@
 # Angular-Services-the-right-way-using-dependency-injection
 Angular Services the right way using dependency injection
+
+we first need to add the serice in the provider of the component...
+
+then we need to initiate a property in the constructor and after that we can use it....
+
+
+check cod efor more info.....
